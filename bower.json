@@ -6,6 +6,7 @@
     "Christopher 'Chief' Najewicz <chief@beefdisciple.com>",
     "Aadit M Shah (http://aaditmshah.github.io/) <aaditmshah@fastmail.fm>"
   ],
+  "main": "lib/angular-detect-caps-lock.js",
   "moduleType": [
     "globals"
   ],
