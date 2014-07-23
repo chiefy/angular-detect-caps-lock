@@ -1,0 +1,23 @@
+{
+  "name": "angular-detect-caps-lock",
+  "version": "0.0.1",
+  "description": "Detect when user has caps-lock enabled/disabled.",
+  "authors": [
+    "Christopher 'Chief' Najewicz <chief@beefdisciple.com>",
+    "Aadit M Shah (http://aaditmshah.github.io/) <aaditmshah@fastmail.fm>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20"
+  }
+}

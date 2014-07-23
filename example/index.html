@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Angular Detect Caps-Lock Example</title>
+</head>
+    <body ng-app="exampleApp">
+        
+        <div>Caps-Lock is: {{caps_state ? 'On' : 'Off'}}</div>
+        
+        <script src="../vendor/angular/angular.min.js"></script>
+        <script src="../dist/angular-detect-caps-lock.js"></script>
+        <script type="text/javascript">
+            window.angular.module('exampleApp',['chiefy.detect-caps-lock']);
+        </script>
+    </body>
+</html>
