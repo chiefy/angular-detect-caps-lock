@@ -7,12 +7,14 @@ This is really just a wrapper around @aaditmshah's [capsLock module.](https://gi
 
 The module maintains a `$rootScope.caps_state` boolean property.
 
-== Bower
+## Install with Bower
+
 ```shell
 $ bower install --save angular-detect-caps-lock
 ```
 
-== Getting Started
+## Include the module
+
 Include the script, and then make sure to use the `chiefy.detect-caps-lock` module in your module dependencies as such:
 
 ```javascript
